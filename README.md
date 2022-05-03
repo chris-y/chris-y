@@ -1,4 +1,4 @@
-💬 Mastodon: [@confusedbunny@oldbytes.space](https://oldbytes.space/@confusedbunny)
+💬 <a rel="me" href="https://oldbytes.space/@confusedbunny">Mastodon</a>: [@confusedbunny@oldbytes.space](https://oldbytes.space/@confusedbunny)
 
 <!--
 **chris-y/chris-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
